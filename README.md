@@ -45,8 +45,8 @@
 
 ## Output
 
-### Name: K S Saisrish
-### Register Number: 212225230238
+### Name:   Nirmal.M
+### Register Number: 212225040282
 
 <img width="1145" height="814" alt="image" src="https://github.com/user-attachments/assets/73455016-4e9c-49c3-8122-360fdefa9cce" />
 
